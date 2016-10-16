@@ -1,0 +1,15 @@
+C:\Users\Mystical Place\Desktop\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Mystical Place\Desktop\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Mystical Place\Desktop\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Mystical Place\Desktop\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Mystical Place\Desktop\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\Mystical Place\Desktop\Matrix\Matrix\obj\Debug\Matrix.pdb
+C:\Users\GuruBeast\Desktop\TORELEASE\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\GuruBeast\Desktop\TORELEASE\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\GuruBeast\Desktop\TORELEASE\Matrix\Matrix\obj\Debug\Matrix.pdb
+C:\Users\GuruBeast\Desktop\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\GuruBeast\Desktop\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\GuruBeast\Desktop\Matrix\Matrix\obj\Debug\Matrix.pdb
+C:\Users\GuruBeast\Desktop\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\GuruBeast\Desktop\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\GuruBeast\Desktop\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
